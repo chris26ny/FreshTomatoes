@@ -8,7 +8,7 @@
 -------------------------
 * fresh_tomatoes.py
 * movies.py
-* movie_details.py
+* movie_details_final.py
 
 -------------------------
 ### Description of app
